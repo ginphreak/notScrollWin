@@ -7,8 +7,8 @@ Use it if you want scroll a div with overflow hidden without scroll window eleme
 How to use
 ============
 
-1) Import plugin into \<head\> with \<script\> tag<br>
-2) Set plugin with selector (es: $('#mydiv').notScrollWin())<br>
+1) Import plugin into <b>\<head\></b> with <b>\<script\></b> tag<br>
+2) Set plugin with selector (es: <b>$('#mydiv').notScrollWin()</b>)<br>
 3) In CSS style set height (or max-height) value and overflow hidden.<br>
 
 Enjoy!!
