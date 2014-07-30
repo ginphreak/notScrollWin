@@ -9,4 +9,6 @@ How to use
 
 1) Import plugin into \<head\> with \<script\> tag<br>
 2) Set plugin with selector (es: $('#mydiv').notScrollWin())<br>
-3) In CSS style set height (or max-height) and overflow hidden.<br>
+3) In CSS style set height (or max-height) value and overflow hidden.<br>
+
+Enjoy!!
